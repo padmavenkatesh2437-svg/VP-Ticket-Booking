@@ -1,0 +1,16 @@
+{
+  "name": "vp_ticket_booking",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "bootstrap": "^5.3.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.2",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": { "start": "react-scripts start", "build": "react-scripts build" },
+  "eslintConfig": { "extends": ["react-app"] },
+  "browserslist": { "production": [">0.2%", "not dead"], "development": ["last 1 chrome version"] }
+}

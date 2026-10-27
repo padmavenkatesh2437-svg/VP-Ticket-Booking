@@ -1,0 +1,9 @@
+:root { --vp: #735DA5; --vp-light: #D3C5E5; --vp-bg: #FFF2D7; }
+body { background: var(--vp-bg); padding-top: 80px; }
+.vp-nav { background: var(--vp-light); }
+.vp-nav .nav-link { color: #3c1053; font-weight: 500; }
+.btn-vp { background: var(--vp); border-color: var(--vp); color: #fff; }
+.btn-vp:hover { background: #5f4a8c; color: #fff; }
+.vp-card { background: var(--vp); color: #fff; border-radius: 10px; }
+.vp-footer { background: var(--vp-light); color: var(--vp); font-weight: 600; }
+.hero { background: linear-gradient(135deg, var(--vp), #4b3a78); color: #fff; border-radius: 14px; }
